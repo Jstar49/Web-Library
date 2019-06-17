@@ -3,7 +3,8 @@
 
 ## 基本信息 ## 
 * 环境：Tomcat 9.0 + mysql 5.6 + windows 10 + Eclipse Jee
-* 请在使用前创建数据库 web,
+* 请在使用前创建数据库 web,脚本在根目录的 web.sql
+* 管理员账号密码都为 admin, 测试账号密码都为 star。
 
 ## 功能 ##
 
