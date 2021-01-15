@@ -38,7 +38,7 @@ CREATE TABLE `book` (
 
 LOCK TABLES `book` WRITE;
 /*!40000 ALTER TABLE `book` DISABLE KEYS */;
-INSERT INTO `book` VALUES (2,'《从零开始的JSP学习》','计算机','星星','借出'),(3,'《论捡灯笼的技巧》','心理学','Uzi','借出'),(4,'《如何和恩静进一步发展》','青春文学','FAKER','借出'),(5,'《我与饮水机的故事》','生活','MLXG','未借出'),(6,'《海子的诗》','诗歌','海子','未借出'),(7,'《小王子》','童话','圣埃克苏佩里','借出'),(8,'《老人与海》','文学作品','海明威','未借出'),(11,'《偶像练习生》','娱乐','蔡徐坤','借出');
+INSERT INTO `book` VALUES (2,'《从零开始的JSP学习》','计算机','蒋星星','借出'),(3,'《论捡灯笼的技巧》','心理学','Uzi','借出'),(4,'《如何和恩静进一步发展》','青春文学','FAKER','借出'),(5,'《我与饮水机的故事》','生活','MLXG','未借出'),(6,'《海子的诗》','诗歌','海子','未借出'),(7,'《小王子》','童话','圣埃克苏佩里','借出'),(8,'《老人与海》','文学作品','海明威','未借出'),(11,'《偶像练习生》','娱乐','蔡徐坤','借出');
 /*!40000 ALTER TABLE `book` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -93,7 +93,7 @@ CREATE TABLE `usertable` (
 
 LOCK TABLES `usertable` WRITE;
 /*!40000 ALTER TABLE `usertable` DISABLE KEYS */;
-INSERT INTO `usertable` VALUES ('admin','admin','admin','123','1'),('star','starstartsat','star','18473401234','0'),('test','ce测试','test','1847301234','0');
+INSERT INTO `usertable` VALUES ('admin','admin','admin','123','1'),('star','starstartsat','star','18473465306','0'),('test','ce测试','test','18473465306','0');
 /*!40000 ALTER TABLE `usertable` ENABLE KEYS */;
 UNLOCK TABLES;
 
